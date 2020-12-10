@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  padding: 20px 50px 50px;
+  text-align: center;
+  background-image: radial-gradient(
+    circle 879px at 10.4% 22.3%,
+    rgb(241, 255, 235) 0%,
+    rgb(243, 186, 245) 93.6%
+  );
+}
